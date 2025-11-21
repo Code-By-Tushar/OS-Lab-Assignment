@@ -1,2 +1,2 @@
 # OS-Lab-Assignment
-A repository of Operating System Assignments 
+🧑‍💻 Author Name: Tushar Jangid, Course: B.Tech Computer Science & Engineering, University: K.R. Mangalam University
